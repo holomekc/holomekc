@@ -2,22 +2,22 @@
 
 **Languages and Tools:**
 
-<img align="left" width="32px" alt="AWS" src="https://api.iconify.design/mdi:aws.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
-<img align="left" width="32px" alt="Quarkus" src="https://api.iconify.design/simple-icons:quarkus.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
-<img align="left" width="32px" alt="Git" src="https://api.iconify.design/cib:git.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
-<img align="left" width="32px" alt="GitHub" src="https://api.iconify.design/codicon:github.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
-<img align="left" width="32px" alt="Debian" src="https://api.iconify.design/simple-icons:debian.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
-<img align="left" width="32px" alt="Linux" src="https://api.iconify.design/cib:linux.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
-<img align="left" width="32px" alt="Docker" src="https://api.iconify.design/cib:docker.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
-<img align="left" width="32px" alt="Java" src="https://api.iconify.design/cib:java.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
-<img align="left" width="32px" alt="TypeScript" src="https://api.iconify.design/cib:typescript.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
-<img align="left" width="32px" alt="Go" src="https://api.iconify.design/cib:go.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
-<img align="left" width="32px" alt="Python" src="https://api.iconify.design/cib:python.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
-<img align="left" width="32px" alt="Bash" src="https://api.iconify.design/codicon:terminal-bash.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
-<img align="left" width="32px" alt="Angular" src="https://api.iconify.design/cib:angular.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
-<img align="left" width="32px" alt="Css" src="https://api.iconify.design/el:css.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
-<img align="left" width="32px" alt="Sass" src="https://api.iconify.design/mdi:sass.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
-<img align="left" width="32px" alt="Html" src="https://api.iconify.design/icomoon-free:html-five.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="AWS" alt="AWS" src="https://api.iconify.design/mdi:aws.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="Quarkus" alt="Quarkus" src="https://api.iconify.design/simple-icons:quarkus.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="Git" alt="Git" src="https://api.iconify.design/cib:git.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="GitHub" alt="GitHub" src="https://api.iconify.design/codicon:github.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="Debian" alt="Debian" src="https://api.iconify.design/simple-icons:debian.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="Linux" alt="Linux" src="https://api.iconify.design/cib:linux.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="Docker" alt="Docker" src="https://api.iconify.design/cib:docker.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="Java" alt="Java" src="https://api.iconify.design/cib:java.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="TypeScript" alt="TypeScript" src="https://api.iconify.design/cib:typescript.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="Go" alt="Go" src="https://api.iconify.design/cib:go.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="Python" alt="Python" src="https://api.iconify.design/cib:python.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="Bash" alt="Bash" src="https://api.iconify.design/codicon:terminal-bash.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="Angular" alt="Angular" src="https://api.iconify.design/cib:angular.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="Css" alt="Css" src="https://api.iconify.design/el:css.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="Sass" alt="Sass" src="https://api.iconify.design/mdi:sass.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
+<img align="left" width="32px" title="Html" alt="Html" src="https://api.iconify.design/icomoon-free:html-five.svg?download=true&box=true&color=%23CCC&inline=false&height=auto" />
 
 <br />
 
